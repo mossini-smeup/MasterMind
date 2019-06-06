@@ -13,7 +13,7 @@ import static org.junit.Assert.*;
 
 /**
  *
- * @author paolo
+ * @author Paolo Mossini
  */
 public class JUnitTest {
     
